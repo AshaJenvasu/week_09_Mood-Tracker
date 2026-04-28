@@ -1,4 +1,5 @@
 import React from 'react';
+import "./InputPage.css";
 
 const InputPage = () => {
   return (

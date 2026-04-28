@@ -1,4 +1,5 @@
 import React from 'react';
+import "./DisplayPage.css"
 
 const DisplayPage = () => {
   return (
