@@ -1,6 +1,8 @@
-import React from 'react';
 import "./InputPage.css";
+import React, { useState } from 'react';
+
 import AddMood from '../components/Add-mood';
+import { useNavigate } from 'react-router-dom';
 
 const InputPage = () => {
 
